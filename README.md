@@ -7,7 +7,7 @@ KU Leuven - EnergyVille, 2025 ECCE Europe Submission (Accepted)
 ## Installation and Usage
 
 1. Install dependencies with:
-<pre> ```bash pip install -r requirements.txt ``` </pre>
+<pre> ```pip install -r requirements.txt ``` </pre>
 
 2. Usage
 Prepare Input File: You need to prepare a layout.json file as the algorithm input. This file should contain the component types and their location information on the PCB.
@@ -17,11 +17,11 @@ Note: Due to proprietary constraints, the example layout.json is not open-source
 Run the Router:
 Navigate to the project directory and run:
 
-<pre> ```bash cd LLM_PCB_Router python main.py ``` </pre>
+<pre> ```cd LLM_PCB_Router python main.py ``` </pre>
 
 This will load your layout.json, interact with a large language model to analyze the layout, use an improved A* algorithm to generate optimized routing paths, output the routing results with visualization
 
 ## Example Results
-![3D Routing Result](Results/3D_router_result.png.png)
+![3D Routing Result](Results/3D_router_result.png)
 
 
