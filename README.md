@@ -1,5 +1,5 @@
 # Leveraging Large Language Models for Intelligent Power Electronics PCB Routing Optimization
-This repository provides the official implementation of the paper:
+This repository provides the implementation of the paper:
 
 "Leveraging Large Language Models for Intelligent Power Electronics PCB Routing Optimization"
 KU Leuven - EnergyVille, 2025 ECCE Europe Submission (Accepted)
