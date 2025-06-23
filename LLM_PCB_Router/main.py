@@ -19,7 +19,7 @@ def main():
 
     start_time = time.time()
 
-    with open(r'E://leuven//papers//ECCEUK2025//LLM_Astar//code-deepseek//layout.json', 'r') as f:
+    with open(r'your_json_file_path', 'r') as f:
         layout_json = f.read()
     
     router = PCBRouter(300)  
