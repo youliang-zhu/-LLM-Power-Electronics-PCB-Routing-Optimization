@@ -22,6 +22,7 @@ Navigate to the project directory and run:
 This will load your layout.json, interact with a large language model to analyze the layout, use an improved A* algorithm to generate optimized routing paths, output the routing results with visualization
 
 ## Example Results
-![3D Routing Result](Results/3D_router_result.png)
+<img src="Results/3D_router_result.png" alt="3D Routing Result" style="width:60%;"/>
+
 
 
