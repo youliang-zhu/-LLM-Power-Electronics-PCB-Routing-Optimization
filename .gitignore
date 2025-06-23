@@ -1,0 +1,3 @@
+.venv/
+.vscode/
+.LLM_PCB_Router/layout.json
